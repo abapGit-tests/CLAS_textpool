@@ -25,6 +25,24 @@
      <ENTRY>world</ENTRY>
      <LENGTH>15</LENGTH>
     </item>
+    <item>
+     <ID>I</ID>
+     <KEY>003</KEY>
+     <ENTRY>text with spaces in it</ENTRY>
+     <LENGTH>44</LENGTH>
+    </item>
+    <item>
+     <ID>I</ID>
+     <KEY>004</KEY>
+     <ENTRY> one leading space</ENTRY>
+     <LENGTH>28</LENGTH>
+    </item>
+    <item>
+     <ID>I</ID>
+     <KEY>005</KEY>
+     <ENTRY>     5 leading spaces</ENTRY>
+     <LENGTH>42</LENGTH>
+    </item>
    </TPOOL>
   </asx:values>
  </asx:abap>
